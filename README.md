@@ -4,6 +4,8 @@
 <img src="https://evofan.github.io/test_Capacitor_202604/screenshot/2.png" width="50%">  
 <img src="https://evofan.github.io/test_Capacitor_202604/screenshot/3.png" width="50%">  
 <img src="https://evofan.github.io/test_Capacitor_202604/screenshot/4.png" width="50%">  
+<img src="https://evofan.github.io/test_Capacitor_202604/screenshot/5.png" width="50%">  
+<img src="https://evofan.github.io/test_Capacitor_202604/screenshot/6.png" width="25%">  
 
 reference  
 
